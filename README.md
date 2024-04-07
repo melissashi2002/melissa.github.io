@@ -20,7 +20,9 @@ Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm de
 - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
 - Organized diverse content, ensuring timely updates and relevant information for the computing community.
 - Applied technical expertise to resolve issues promptly, enhancing website performance, security, and accessibility.
-- 
+
+
+
 ## Awards
 - Made the Dean's List in my first two years.
 - Led the Global Lion Ambassador Program.
@@ -29,6 +31,9 @@ Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm de
 - Won the Clark Association Scholarship for academics and community work.
 - Involved in the Women in Computer Science Program.
 - Recognized as a James Scholar at UIUC.
+
+## Contact 
+Eamil: mshi24@illinois.edu
 
 
 
