@@ -1,8 +1,9 @@
 <div style="display: flex; justify-content: space-between;">
 
-<a href="#education">Education</a>
-<a href="#projects">Projects</a>
-<a href="#honors">Honors</a>
+<a href="##education">Education</a>
+<a href="##projects">Projects</a>
+<a href="##Experience">experience</a>
+<a href="##Honors">honors</a>
 
 </div>
 
@@ -28,7 +29,7 @@ Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm de
 
 
 
-## Awards
+## Honors
 - Made the Dean's List in my first two years.
 - Led the Global Lion Ambassador Program.
 - Coordinated the EECS Mentor Collective Program.
