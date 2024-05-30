@@ -1,4 +1,6 @@
-
+- [Education](#education)
+- [Projects](#projects)
+- [Experiences](#experiences)
 
 
 ## About Me
