@@ -1,11 +1,10 @@
 <div style="display: flex; justify-content: space-between;">
-
-<a href="##education">Education</a>
-<a href="##projects">Projects</a>
-<a href="##Experience">experience</a>
-<a href="##Honors">honors</a>
-
+    <a href="##education" style="font-size: 20px; font-weight: bold; text-decoration: underline;">Education</a>
+    <a href="##projects" style="font-size: 20px; font-weight: bold; text-decoration: underline;">Projects</a>
+    <a href="##experience" style="font-size: 20px; font-weight: bold; text-decoration: underline;">Experience</a>
+    <a href="##honors" style="font-size: 20px; font-weight: bold; text-decoration: underline;">Honors</a>
 </div>
+
 
 ## About Me
 Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm deeply interested in how technology affects human interactions, focusing on social computing, machine learning, deep learning, and HCI. I'm excited to explore how these areas can improve our digital and social worlds.
