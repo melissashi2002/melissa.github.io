@@ -25,6 +25,11 @@ Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm de
 - Provided research findings and conclusions about the relationship between postpartum depression and other health conditions. 
 
 ## Experience
+### Research Intern, The OnCARE(Online and Connected AI Reflections) Lab at UIUC
+- Conduct research under the guidance of Prof.Koustuv Saha
+- Explore human-centered and interdisciplinary computer science topics.
+- Focus on the role of computing in health, well-being, and societal issues.
+  
 ### Penn State Association for Computing Machinery Webmaster
 - Led the development and upkeep of PSU ACM’s website, focusing on user experience and engaging design.
 - Organized diverse content, ensuring timely updates and relevant information for the computing community.
