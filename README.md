@@ -9,10 +9,18 @@ Hi! I'm Jiayue (Melissa) Shi, a junior studying Computer Science at UIUC. I'm de
 
 
 ## Projects
+### Exploring the Impact of LLMs/Gen AI-Driven Chatbots on Mental Health Advice
+- Designed and developed a user-centric website to facilitate scenario-based interview, employing OpenAI’s API to explore the impact of AI-driven chatbots on mental health advice.
+- Planning to conduct a computational analysis by collecting and analyzing chatbot conversations from 8 predefined scenarios to evaluate AI’s advisory patterns and users interaction.
+- Collaborating with professors to design scenario-based interviews focused on ethical considerations, aiming to refine the chatbot for improved safety and efficacy. Future enhancements will be informed through planned field deployments and speculative design workshops.
+### Stock Prediction Project
+- Collaborated with a team to develop a full-stack web application for stock prediction, using Python and Flask for the back-end architecture.
+- Led the front-end development, creating intuitive and visually appalling user interfaces with HTML and CSS, which significantly improved user engagement and accessibility.
+- Developed and integrated sophisticated machine learning models using scikit-learn and PyTorch, leveraging PyTrend and YFinance data within SQL databases to enable real-time updates and personalized user plans, while ensuring effective collaboration and project management to deliver a high-quality product.
 ### Postpartum Depression Data Analysis 
-- Analyzed and collected 200 data sourced from the TriNetX Research Network using Python for data manipulation and analysis, identifying the relationship between other disease and postpartum depression
-- Processed 10K electronic health records (EHR) data by Python and assess the prevalence and impact of different disease on the occurrence and severity of postpartum depression
-- Provided research findings and conclusions about the relationship between postpartum depression and other health conditions
+- Analyzed and collected 200 data sourced from the TriNetX Research Network using Python for data manipulation and analysis, identifying the relationship between other disease and postpartum depression. 
+- Processed 10K electronic health records (EHR) data by Python and assess the prevalence and impact of different disease on the occurrence and severity of postpartum depression. 
+- Provided research findings and conclusions about the relationship between postpartum depression and other health conditions. 
 
 ## Experience
 ### Penn State Association for Computing Machinery Webmaster
